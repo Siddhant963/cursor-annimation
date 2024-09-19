@@ -1,0 +1,16 @@
+.main{ 
+ width: 100vw;
+ height: 100vh;
+ background-color: #111;
+}
+.cursor{ 
+    width: 40px;
+    height: 40px;
+    /* background-color: #fff; */
+    background-image: url(./ezgif-1-15f94cfca0-removebg-preview.png);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+
+    position: fixed;
+}
